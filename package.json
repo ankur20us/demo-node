@@ -1,0 +1,23 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "This is just a demo to do to the task in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur20us/demo-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur20us/demo-node/issues"
+  },
+  "homepage": "https://github.com/ankur20us/demo-node#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4"
+  }
+}
